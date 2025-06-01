@@ -7,7 +7,7 @@ cd warp-cli
 ````
 ### Runnging Skrip
 ````
-sudo chmod +x warp-setup.sh
-sudo ./warp-setup.sh
+sudo chmod +x warp-cli-setup.sh
+sudo ./warp-cli-setup.sh
 
 ````
